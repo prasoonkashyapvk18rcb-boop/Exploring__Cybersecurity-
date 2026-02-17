@@ -11,7 +11,7 @@ This repository documents my progress, notes, and practical exercises as I build
 
 I am currently pursuing structured industry-relevant learning through:
 
-- Google Cybersecurity Professional Certificate (Coursera)
+- Google Cybersecurity Professional Certificate (Coursera) (In-progress)
 - CompTIA Security+ (Planned)
 - CompTIA CySA+ (Planned)
 - Certified Ethical Hacker – CEH (Planned)
