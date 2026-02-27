@@ -5,69 +5,158 @@ Google Cybersecurity Professional Certificate
 
 ## Overview
 
-This course introduced the fundamental principles of cybersecurity, including core security concepts, common threat types, and the role of security professionals in protecting systems and data.
+This course introduced the fundamental principles of cybersecurity, the responsibilities of entry-level security analysts, common threat types, regulatory requirements, and foundational security concepts.
+
+It provided a broad understanding of how organizations protect systems, networks, and sensitive data.
 
 ---
 
 ## Core Concepts Covered
 
+- Job responsibilities of an entry-level security analyst
+- Core skills and knowledge required in cybersecurity
 - CIA Triad (Confidentiality, Integrity, Availability)
-- Types of Threats (Malware, Phishing, Social Engineering, Insider Threats)
-- Security Controls (Preventive, Detective, Corrective)
-- Risk Management Basics
-- Role of Security Analysts
+- Security ethics
+- Laws and regulatory compliance
+- Malware, viruses, and social engineering attacks
 
 ---
 
-## Technical Understanding
+## Role of an Entry-Level Security Analyst
 
-### 1. CIA Triad
+Learned that security analysts are responsible for:
 
-- **Confidentiality** → Ensuring sensitive data is accessible only to authorized individuals.
-- **Integrity** → Maintaining accuracy and trustworthiness of data.
-- **Availability** → Ensuring systems and data remain accessible when required.
+- Monitoring system activity
+- Analyzing alerts
+- Identifying suspicious behavior
+- Protecting networks and sensitive information
+- Escalating and responding to security incidents
 
-These three principles form the foundation of defensive cybersecurity strategies.
-
----
-
-### 2. Common Threat Types
-
-- Malware (viruses, ransomware, trojans)
-- Phishing & social engineering attacks
-- Insider threats
-- Unauthorized access attempts
-
-Understanding these threats helps in identifying abnormal system behavior and potential incidents.
+Core skills emphasized:
+- Analytical thinking
+- Attention to detail
+- Communication skills
+- Technical awareness of systems and networks
 
 ---
 
-## Security Roles & Real-World Relevance
+## CIA Triad & Network Protection
 
-This course clarified the responsibilities of roles such as:
+### CIA Triad
+
+- **Confidentiality** → Protecting sensitive data from unauthorized access.
+- **Integrity** → Ensuring data accuracy and preventing tampering.
+- **Availability** → Ensuring systems and information remain accessible.
+
+Security analysts apply these principles when implementing controls and monitoring systems.
+
+---
+
+## Data Protection & Privacy Awareness
+
+Gained specific knowledge about:
+
+- **PII (Personally Identifiable Information)**
+- **SPII (Sensitive Personally Identifiable Information)**
+
+Understanding the importance of safeguarding sensitive user data to prevent identity theft and regulatory violations.
+
+---
+
+## Cybersecurity Threats & Attack Types
+
+### Malware Categories
+
+- Viruses
+- Worms
+- Spyware
+- Ransomware
+
+### Social Engineering & Phishing Techniques
+
+- Spear phishing
+- Whaling
+- Business Email Compromise (BEC)
+- Vishing (voice phishing)
+- Smishing (SMS phishing)
+- USB baiting
+- Watering hole attacks
+
+---
+
+## Password & Encryption Basics
+
+- Brute force attacks
+- Rainbow table attacks
+- Basic introduction to encryption and cryptography principles
+
+These concepts form the foundation for authentication and data protection strategies.
+
+---
+
+## Historical Cyber Incidents & Case Studies
+
+Studied real-world incidents such as:
+
+- LoveLetter attack
+- Morris Worm
+- Brain Virus
+- Equifax data breach
+
+These case studies highlighted:
+- The impact of vulnerabilities
+- Importance of patch management
+- Long-term consequences of poor security practices
+
+---
+
+## Incident Response & Organizational Security
+
+Learned about:
+
+- CSIRTs (Computer Security Incident Response Teams)
+- Their role in investigating and responding to security incidents
+
+---
+
+## Laws, Regulations & Compliance
+
+Introduced to major regulatory frameworks and laws:
+
+- HIPAA
+- FERC-NERC
+- FedRAMP
+- GDPR
+- PCI DSS
+- ISO standards
+- HITRUST
+- Gramm-Leach-Bliley Act (GLBA)
+- Sarbanes-Oxley Act (SOX)
+
+Understanding regulatory compliance is essential for protecting sensitive data and maintaining legal standards.
+
+---
+
+## Practical Relevance
+
+This course built foundational knowledge required for:
 
 - SOC Analyst
 - Security Analyst
-- Incident Response Team Member
+- Compliance Analyst
+- Incident Response Trainee
 
-These roles focus on monitoring systems, analyzing alerts, identifying threats, and responding to incidents.
+It established awareness of both technical threats and legal responsibilities in cybersecurity.
 
 ---
 
 ## Skills Developed
 
-- Understanding of core cybersecurity principles
-- Awareness of common attack vectors
-- Basic familiarity with security monitoring concepts
-- Foundation for defensive security practices
-
----
-
-## Tools / Platforms Mentioned
-
-- SIEM systems
-- Security monitoring tools
-- Security frameworks
+- Understanding of security fundamentals
+- Awareness of common cyber attack methods
+- Basic knowledge of encryption concepts
+- Regulatory and compliance awareness
+- Foundational understanding of security analyst responsibilities
 
 ---
 
