@@ -254,7 +254,6 @@ The concepts learned provide a strong foundation for defensive cybersecurity, ne
 
 ## Reference
 
-Google Cybersecurity Professional Certificate
-Coursera
+Google Cybersecurity Professional Certificate       
 Coursera
 
